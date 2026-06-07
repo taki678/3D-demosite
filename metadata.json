@@ -1,0 +1,6 @@
+{
+  "name": "Premium 3D Product Experience",
+  "description": "An award-winning caliber interactive WebGL 3D viewer that showcases futuristic products with glass, physical materials, and gravity-defying interactive fluid physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
